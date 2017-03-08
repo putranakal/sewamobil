@@ -3,3 +3,5 @@ sewa mobil di lombok dari http://www.lomboktrans.com dan http://www.rinjanitrans
 .rental-mobil-innova { http://www.lomboktrans.com/rental-mobil-innova-lombok/ }
 .rental-mobil-avanza { http://www.lomboktrans.com/sewa-mobil-avanza-lombok/  }
 -daftar-harga-sewa-mobil-lombok { http://www.lomboktrans.com/daftar-harga/  }
+#sewa bus lombok { http://www.buslombok.com }
+#Trans Lombok { http://www.translombok.co.id }
